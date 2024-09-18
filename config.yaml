@@ -1,0 +1,9 @@
+name: "Portainer"
+description: "Portainer integration for Home Assistant"
+version: "0.1"
+slug: "portainer_addon"
+init: false
+arch:
+  - aarch64
+map:
+  - share:rw
